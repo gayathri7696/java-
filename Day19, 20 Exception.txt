@@ -93,3 +93,12 @@ throws :
 	It Will declare the Exception.	
 
 	Throws it will declare more than one Exception .
+	
+	
+	differencwe between throw and throws impo question
+	
+	
+Stale element ref exception:
+old element or element no longetr available in dom is known is stale element
+if the dom changes the element becomes stale
+if we try to intract with the element then it throws stale element ref exception
