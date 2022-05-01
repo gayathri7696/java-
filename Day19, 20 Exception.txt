@@ -1,0 +1,95 @@
+Exception :
+
+	Exception is like a error . 
+
+	When Exception occurs the program will be terminated at the line itself.
+
+	If Exception occurs we can handle by the code of our program.
+
+
+Exception Types :
+
+Checked (Or) Compile Time Exception
+
+Unchecked (Or) Run-Time Exception
+
+
+Compile Time Exception :
+
+		   File Not Found Exception
+		
+		   IO Exception
+
+		   Class not found Exception
+
+		   SQL Exception
+		
+Run-Time Exception :
+		
+		    Arithmetic Exception
+
+		    Null Pointer Exception
+
+ 		    Input MisMatch Exception
+
+	            Array Index Out Of Bound Exception
+
+    	            String Index Out Of Bound Exception
+
+ 	            Index Out Of Bound Exception
+
+  	   	    Number Format Exception
+
+*********************************************************************************************
+Parent Class Of Exception is Throwable.
+
+Parent class of all class in java is Object.
+
+parent class of interface is Iterable or Search Context.
+
+**********************************************************************************************
+Exception Handling :
+
+try
+
+catch
+
+finally
+
+throw
+
+throws
+
+
+Select The Exception Line ----> R.C ----> SurroundWith -----> Try Catch Block
+
+
+try :
+
+      It will try the exception.
+
+catch :
+
+      it will catch the Exception.
+
+
+finally :
+
+	Whether The Exception Occurs Or Not The Finally Block Will be Executed Automatically At The Time Itself.
+
+
+throw :
+	
+	It is inside the method.
+
+	it will throw the exception.
+	
+	Throw It Will throw only one Exception.	
+	
+throws : 
+
+	It is in the method level.
+
+	It Will declare the Exception.	
+
+	Throws it will declare more than one Exception .
