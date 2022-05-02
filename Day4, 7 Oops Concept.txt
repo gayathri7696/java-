@@ -1,0 +1,121 @@
+Oops Concepts :
+
+Encapsulation
+Inheritance
+Polymorphism
+Abstraction
+
+***************************************************************************************************************************************
+Polymorphism : 
+
+	One task can be perform (or) completed in many ways.
+
+Poly - many
+morphism  - forms (or) ways.
+
+Types :
+
+	Method overloading
+	Method overriding 
+
+
+Method Overloading :
+ 
+	In The Same Class the methods name will be same .
+
+	But Arguments (Or) Parameters will be different.
+
+	Depend Upon 
+
+		   Datatype
+ 		   
+		   Datatype order
+ 	           
+		   Datatype count
+	
+ 	It is Also Known as Compile Time Polymorphism Or Static Binding.
+
+
+Method Overriding:
+	
+ 		Class names are different but Methods name and Arguments names are same
+
+		It is also known as Run Time Polymorphism or Dynamic Binding.
+
+Rules for Java Method Overriding:
+
+	The method must have the same name as in the parent class
+	The method must have the same parameter as in the parent class.
+	There must be an IS-A relationship (inheritance).
+
+
+
+*************************************************************************************************************************
+
+Abstraction :
+
+	Hiding The Implementation Part.
+
+Types 
+
+	Partial Abstraction Or Abstract Class
+	
+	Fully Abstraction or Interface.
+
+Abstract Class :
+		 
+ 			It Supports Abstract Method And Non- Abstract Method.
+			
+			We Cannot Create An Object For Abstract Class Because There
+			is no Implementation part .
+			
+			By Using "extends" keyword we can access Abstract Class.
+
+			public abstract keyword is mandatory.
+
+			there is no implementation part only signature part
+
+Interface :
+		 
+ 			It Supports Only Abstract Method .
+			
+			We Cannot Create An Object For Interface Because There is 
+			no Implementation part .
+			
+
+			By Using "implements" keyword we can access Interface.
+
+
+			public abstract keyword is default here .
+
+
+***********************************************************************************************************************************************************
+
+
+Project
+
+packages
+
+class
+
+methods
+
+object
+	
+
+upcasting : Accessing The Child Class object into parent class 
+
+downcasting : Accessing The Parent Class Object into Child Class
+
+	      It is not possible in Java.
+
+
+
+
+
+
+
+
+
+
+
