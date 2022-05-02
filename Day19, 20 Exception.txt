@@ -1,9 +1,7 @@
-Exception :
+Exception :important
 
 	Exception is like a error . 
-
 	When Exception occurs the program will be terminated at the line itself.
-
 	If Exception occurs we can handle by the code of our program.
 
 
