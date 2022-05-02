@@ -7,7 +7,6 @@ Abstraction
 
 ***************************************************************************************************************************************
 Polymorphism : 
-
 	One task can be perform (or) completed in many ways.
 
 Poly - many
