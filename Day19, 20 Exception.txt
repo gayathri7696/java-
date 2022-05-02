@@ -1,4 +1,4 @@
-Exception :important
+Exception :important topic
 
 	Exception is like a error . 
 	When Exception occurs the program will be terminated at the line itself.
